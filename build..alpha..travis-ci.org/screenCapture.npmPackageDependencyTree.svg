@@ -8,7 +8,7 @@
 <tspan x="10" y="90">└─┬ grunt-autoprefixer@3.0.4 </tspan>
 <tspan x="10" y="106">  ├─┬ autoprefixer-core@5.2.1 </tspan>
 <tspan x="10" y="122">  │ ├── browserslist@0.4.0 </tspan>
-<tspan x="10" y="138">  │ ├── caniuse-db@1.0.30000649 </tspan>
+<tspan x="10" y="138">  │ ├── caniuse-db@1.0.30000655 </tspan>
 <tspan x="10" y="154">  │ └── num2fraction@1.2.2 </tspan>
 <tspan x="10" y="170">  ├─┬ chalk@1.0.0 </tspan>
 <tspan x="10" y="186">  │ ├── ansi-styles@2.2.1 </tspan>
